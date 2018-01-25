@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.CalculateSequenceWithQue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TruckTour", "06.TruckTour\06.TruckTour.csproj", "{0CBBFB53-6CD9-4F13-A08F-6AA30A13A4C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.BalancedParatheses", "07.BalancedParatheses\07.BalancedParatheses.csproj", "{98CB3126-2015-4ECA-AE0A-D6FA29F9D9D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0CBBFB53-6CD9-4F13-A08F-6AA30A13A4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CBBFB53-6CD9-4F13-A08F-6AA30A13A4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CBBFB53-6CD9-4F13-A08F-6AA30A13A4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CB3126-2015-4ECA-AE0A-D6FA29F9D9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CB3126-2015-4ECA-AE0A-D6FA29F9D9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CB3126-2015-4ECA-AE0A-D6FA29F9D9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CB3126-2015-4ECA-AE0A-D6FA29F9D9D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
