@@ -11,13 +11,13 @@ namespace _09.StackFibonacci
 
             Stack<long> fibStack = new Stack<long>();
 
-            fibStack.Push(1);
+            fibStack.Push(0);
             fibStack.Push(1);
 
             int a = 0;
             int b = 0;
 
-            for (int i = 2; i < n; i++)
+            for (int i = 2; i <= n; i++)
             {
                 long old = fibStack.Pop();
                 long next = fibStack.Peek() + old;
