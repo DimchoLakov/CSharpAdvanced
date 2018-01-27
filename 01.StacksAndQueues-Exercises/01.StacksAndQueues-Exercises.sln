@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2024
+VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReveseNumbersWithStack", "01.ReveseNumbersWithStack\01.ReveseNumbersWithStack.csproj", "{A4B3C25E-C2CB-4B05-A3EA-F1210795971A}"
 EndProject
@@ -13,15 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.BasicQueueOpeartions", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.CalculateSequenceWithQueue", "05.CalculateSequenceWithQueue\05.CalculateSequenceWithQueue.csproj", "{343B07AF-62C3-4429-9D3F-7DB79CBFD806}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TruckTour", "06.TruckTour\06.TruckTour.csproj", "{0CBBFB53-6CD9-4F13-A08F-6AA30A13A4C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.TruckTour", "06.TruckTour\06.TruckTour.csproj", "{0CBBFB53-6CD9-4F13-A08F-6AA30A13A4C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.BalancedParatheses", "07.BalancedParatheses\07.BalancedParatheses.csproj", "{98CB3126-2015-4ECA-AE0A-D6FA29F9D9D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.BalancedParatheses", "07.BalancedParatheses\07.BalancedParatheses.csproj", "{98CB3126-2015-4ECA-AE0A-D6FA29F9D9D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.RecursiveFibonacci", "08.RecursiveFibonacci\08.RecursiveFibonacci.csproj", "{9E5A40EF-495E-4E82-8035-33F259093C39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.RecursiveFibonacci", "08.RecursiveFibonacci\08.RecursiveFibonacci.csproj", "{9E5A40EF-495E-4E82-8035-33F259093C39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.StackFibonacci", "09.StackFibonacci\09.StackFibonacci.csproj", "{6FEF8EA0-78D9-424B-A043-FB2CC8564F6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.StackFibonacci", "09.StackFibonacci\09.StackFibonacci.csproj", "{6FEF8EA0-78D9-424B-A043-FB2CC8564F6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.SimpleTextEditor", "10.SimpleTextEditor\10.SimpleTextEditor.csproj", "{04AF5150-1701-4C9E-9BDF-81204BC75E96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.SimpleTextEditor", "10.SimpleTextEditor\10.SimpleTextEditor.csproj", "{04AF5150-1701-4C9E-9BDF-81204BC75E96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.PoisonousPlants", "11.PoisonousPlants\11.PoisonousPlants.csproj", "{FE9215C4-E54F-4F8A-B3D7-160E96AE895C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{04AF5150-1701-4C9E-9BDF-81204BC75E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04AF5150-1701-4C9E-9BDF-81204BC75E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04AF5150-1701-4C9E-9BDF-81204BC75E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9215C4-E54F-4F8A-B3D7-160E96AE895C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9215C4-E54F-4F8A-B3D7-160E96AE895C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9215C4-E54F-4F8A-B3D7-160E96AE895C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9215C4-E54F-4F8A-B3D7-160E96AE895C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
