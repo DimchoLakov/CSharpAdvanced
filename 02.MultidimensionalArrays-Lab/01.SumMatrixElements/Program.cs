@@ -5,7 +5,7 @@ namespace _01.SumMatrixElements
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int[] matrixSize = Console.ReadLine().Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
             
