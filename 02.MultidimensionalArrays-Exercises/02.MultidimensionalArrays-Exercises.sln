@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.RubiksMatrix", "05.Rubik
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TargetPractice", "06.TargetPractice\06.TargetPractice.csproj", "{C533B1C3-BBA2-4560-B053-83D6E229D7BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.LegoBlocks", "07.LegoBlocks\07.LegoBlocks.csproj", "{F8AAD54B-00A3-4779-95D4-94A5F9850182}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C533B1C3-BBA2-4560-B053-83D6E229D7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C533B1C3-BBA2-4560-B053-83D6E229D7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C533B1C3-BBA2-4560-B053-83D6E229D7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8AAD54B-00A3-4779-95D4-94A5F9850182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AAD54B-00A3-4779-95D4-94A5F9850182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AAD54B-00A3-4779-95D4-94A5F9850182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AAD54B-00A3-4779-95D4-94A5F9850182}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
