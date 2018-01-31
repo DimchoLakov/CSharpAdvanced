@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TargetPractice", "06.Tar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.LegoBlocks", "07.LegoBlocks\07.LegoBlocks.csproj", "{F8AAD54B-00A3-4779-95D4-94A5F9850182}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.RadioactiveMutantVampireBunnies", "08.RadioactiveMutantVampireBunnies\08.RadioactiveMutantVampireBunnies.csproj", "{477DFA08-4588-49C8-B683-F39BA51F757A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F8AAD54B-00A3-4779-95D4-94A5F9850182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8AAD54B-00A3-4779-95D4-94A5F9850182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8AAD54B-00A3-4779-95D4-94A5F9850182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477DFA08-4588-49C8-B683-F39BA51F757A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477DFA08-4588-49C8-B683-F39BA51F757A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477DFA08-4588-49C8-B683-F39BA51F757A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477DFA08-4588-49C8-B683-F39BA51F757A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
