@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.LegoBlocks", "07.LegoBlo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.RadioactiveMutantVampireBunnies", "08.RadioactiveMutantVampireBunnies\08.RadioactiveMutantVampireBunnies.csproj", "{477DFA08-4588-49C8-B683-F39BA51F757A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Crossfire", "09.Crossfire\09.Crossfire.csproj", "{B5692A33-0784-4932-A619-5B2300800A74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.Crossfire", "09.Crossfire\09.Crossfire.csproj", "{B5692A33-0784-4932-A619-5B2300800A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.TheHeiganDance", "10.TheHeiganDance\10.TheHeiganDance.csproj", "{56606961-857B-4E06-94DB-2C8420DFD397}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{B5692A33-0784-4932-A619-5B2300800A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5692A33-0784-4932-A619-5B2300800A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5692A33-0784-4932-A619-5B2300800A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56606961-857B-4E06-94DB-2C8420DFD397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56606961-857B-4E06-94DB-2C8420DFD397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56606961-857B-4E06-94DB-2C8420DFD397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56606961-857B-4E06-94DB-2C8420DFD397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
