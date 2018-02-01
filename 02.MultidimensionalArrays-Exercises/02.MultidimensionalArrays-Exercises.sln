@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.Crossfire", "09.Crossfir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.TheHeiganDance", "10.TheHeiganDance\10.TheHeiganDance.csproj", "{56606961-857B-4E06-94DB-2C8420DFD397}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ParkingSystem", "11.ParkingSystem\11.ParkingSystem.csproj", "{0A84A9D2-70C7-409C-BB90-CF2FED3C1B28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{56606961-857B-4E06-94DB-2C8420DFD397}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56606961-857B-4E06-94DB-2C8420DFD397}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56606961-857B-4E06-94DB-2C8420DFD397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A84A9D2-70C7-409C-BB90-CF2FED3C1B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A84A9D2-70C7-409C-BB90-CF2FED3C1B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A84A9D2-70C7-409C-BB90-CF2FED3C1B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A84A9D2-70C7-409C-BB90-CF2FED3C1B28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
