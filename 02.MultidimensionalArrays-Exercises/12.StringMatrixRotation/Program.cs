@@ -106,7 +106,6 @@ namespace _12.StringMatrixRotation
         static void CreateMatrix()
         {
             matrix = new List<List<char>>();
-            int index = 0;
 
             while (queue.Count > 0)
             {
