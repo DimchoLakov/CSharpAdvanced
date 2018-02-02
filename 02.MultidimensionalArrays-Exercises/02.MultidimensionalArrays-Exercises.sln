@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.TheHeiganDance", "10.The
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ParkingSystem", "11.ParkingSystem\11.ParkingSystem.csproj", "{0A84A9D2-70C7-409C-BB90-CF2FED3C1B28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.StringMatrixRotation", "12.StringMatrixRotation\12.StringMatrixRotation.csproj", "{C0326814-7933-46A8-A5CA-CDB5AC3791CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{0A84A9D2-70C7-409C-BB90-CF2FED3C1B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A84A9D2-70C7-409C-BB90-CF2FED3C1B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A84A9D2-70C7-409C-BB90-CF2FED3C1B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0326814-7933-46A8-A5CA-CDB5AC3791CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0326814-7933-46A8-A5CA-CDB5AC3791CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0326814-7933-46A8-A5CA-CDB5AC3791CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0326814-7933-46A8-A5CA-CDB5AC3791CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
