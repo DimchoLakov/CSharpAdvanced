@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="IO\" />
+    <Folder Include="Judge\" />
+    <Folder Include="Static data\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
+</Project>
