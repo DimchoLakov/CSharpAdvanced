@@ -3,19 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ActionPoint", "01.ActionPoint\01.ActionPoint.csproj", "{97D4D8C4-7979-4B22-806A-971AC683D33F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ActionPoint", "01.ActionPoint\01.ActionPoint.csproj", "{97D4D8C4-7979-4B22-806A-971AC683D33F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.KnightsOfHonor", "02.KnightsOfHonor\02.KnightsOfHonor.csproj", "{A16FE6A6-785D-4C0B-BAAA-5ED0FAAE1DEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.KnightsOfHonor", "02.KnightsOfHonor\02.KnightsOfHonor.csproj", "{A16FE6A6-785D-4C0B-BAAA-5ED0FAAE1DEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CustomMinFunction", "03.CustomMinFunction\03.CustomMinFunction.csproj", "{D438EF1B-1DE4-484C-9DB9-822D13791503}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CustomMinFunction", "03.CustomMinFunction\03.CustomMinFunction.csproj", "{D438EF1B-1DE4-484C-9DB9-822D13791503}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FindEvensOrOdds", "04.FindEvensOrOdds\04.FindEvensOrOdds.csproj", "{E25080C8-955C-4E65-A0B0-34470B570AC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FindEvensOrOdds", "04.FindEvensOrOdds\04.FindEvensOrOdds.csproj", "{E25080C8-955C-4E65-A0B0-34470B570AC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AppliedArithmetics", "05.AppliedArithmetics\05.AppliedArithmetics.csproj", "{0B98D44B-E8B9-4F62-AD76-AF0825FB99C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.AppliedArithmetics", "05.AppliedArithmetics\05.AppliedArithmetics.csproj", "{0B98D44B-E8B9-4F62-AD76-AF0825FB99C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReverseAndExclude", "06.ReverseAndExclude\06.ReverseAndExclude.csproj", "{3B52F745-FD7C-4246-A279-C1568E5194B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ReverseAndExclude", "06.ReverseAndExclude\06.ReverseAndExclude.csproj", "{3B52F745-FD7C-4246-A279-C1568E5194B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PredicateForNames", "07.PredicateForNames\07.PredicateForNames.csproj", "{1ADB8B2C-F473-49C6-A758-312A2FF65AA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.PredicateForNames", "07.PredicateForNames\07.PredicateForNames.csproj", "{1ADB8B2C-F473-49C6-A758-312A2FF65AA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.CustomComparator", "08.CustomComparator\08.CustomComparator.csproj", "{1E89215B-2523-4754-92A0-75D5E744337F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.ListOfPredicates", "09.ListOfPredicates\09.ListOfPredicates.csproj", "{A1901C59-5C21-473A-84D1-8A3893437123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PredicateParty", "10.PredicateParty\10.PredicateParty.csproj", "{C174D000-0900-471C-8F68-5497D5636798}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{1ADB8B2C-F473-49C6-A758-312A2FF65AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ADB8B2C-F473-49C6-A758-312A2FF65AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ADB8B2C-F473-49C6-A758-312A2FF65AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E89215B-2523-4754-92A0-75D5E744337F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E89215B-2523-4754-92A0-75D5E744337F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E89215B-2523-4754-92A0-75D5E744337F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E89215B-2523-4754-92A0-75D5E744337F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1901C59-5C21-473A-84D1-8A3893437123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1901C59-5C21-473A-84D1-8A3893437123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1901C59-5C21-473A-84D1-8A3893437123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1901C59-5C21-473A-84D1-8A3893437123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C174D000-0900-471C-8F68-5497D5636798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C174D000-0900-471C-8F68-5497D5636798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C174D000-0900-471C-8F68-5497D5636798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C174D000-0900-471C-8F68-5497D5636798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
