@@ -31,7 +31,7 @@ namespace BashSoft
 
                     foreach (string file in files)
                     {
-                        int indexOfLastSlash = file.IndexOf(@"\");
+                        int indexOfLastSlash = file.LastIndexOf(@"\");
                         string fileName = file.Substring(indexOfLastSlash);
                         OutputWriter.WriteMessageOnNewLine($"{new string('-', indexOfLastSlash)}{fileName}");
                     }
